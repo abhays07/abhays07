@@ -1,5 +1,5 @@
 # ✨ About Me:
-MERN Stack Developer  <br>JAVA | SQL | AWS | Google Cloud <br>B.Tech (CSE) - 2026
+MERN Stack Developer  <br>JAVA | SQL | AWS | GIT | GITHUB | Google Cloud <br>B.Tech (CSE) - 2026
 
 
 ## 🌐 Socials:
