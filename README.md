@@ -1,5 +1,5 @@
 # ✨ About Me:
-MERN Stack Developer  <br>JAVA | SQL | AWS | GIT | GITHUB | Google Cloud <br>B.Tech (CSE) - 2026
+MERN Stack Developer  <br>JAVA | SQL | Selenium | AWS | GIT | GITHUB | Google Cloud <br>B.Tech (CSE) - 2026
 
 
 ## 🌐 Socials:
@@ -19,4 +19,4 @@ MERN Stack Developer  <br>JAVA | SQL | AWS | GIT | GITHUB | Google Cloud <br>B.T
 [![](https://visitcount.itsvg.in/api?id=Abhays07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Have a Good Year filled with lots of bugs and solutions 
-# 19-01-2026 #
+# 20-01-2026 #
